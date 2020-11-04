@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ATM Consultoria</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ATM Consultoria</string>
+    <string name="nav_header_subtitle">atmconsultoria@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Principal</string>
+    <string name="menu_service">Serviço</string>
+    <string name="menu_cliente">Clientes</string>
+    <string name="menu_contato">Contatos</string>
+    <string name="menu_sobre">Sobre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Titulo">Sistema de Gestão de Qualidade</string>
+    <string name="texto1">Qualidade é uma responsabilidade de todos os níveis da organização. Ao implementar um sistema de gestão da qualidade, a empresa se prepara melhor para gerenciar os riscos relacionados à qualidade. Existem váriias normas e padrões para medir a qualidade como a ISO 9001, ISO 14001, ISO 18001, ISO31000, certificação ONA e outras.</string>
+    <string name="titulo2">Indicadores de desempenho</string>
+    <string name="texto2">A definição e análise de indicadores permitem avaliar o desempenho da organização de acordo com as metas estabelecidas, possibilitando seu acompanhamento e permitindo que sejam feitas as adequações necessárias para atingir os resultados desejados.</string>
+    <string name="textoCliente">em mais de 15 anos de exitência a ATM acumula experiência e know how em empresas nacionais e multinacionais, de diversos portes, em vários segmentos, em todo o território nacional.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textoSobre">A ATM consultoria tem por objetivo apoiar ...</string>
+</resources>
